@@ -1,0 +1,26 @@
+# list of all tools and how to install them
+
+# apt installs
+git
+gobuster
+hashcat
+hydra
+netcat
+ncat
+nmap
+python3
+smbclient
+wireshark
+
+# git clones
+metasploit-framework
+
+# application downloads
+burp suite
+
+# lists
+seclists - Github
+
+# add-ons
+foxy proxy
+wappalyzer
