@@ -1,15 +1,4 @@
-# list of all tools and how to install them
-
-# Thoughts:
-# can I put them in a searchable/ordered table?
-# columns:
-  install type: apt install / git clones / etc.
-  install link: link to install
-  description
-  use type: passwords / usernames / etc
-  use conditions: only for ssh, need username, etc (or maybe all these should be columns with yes/no indicators?
-
-# apt installs
+# tools
 git
 gobuster
 hashcat
@@ -19,13 +8,11 @@ ncat
 nmap
 python3
 smbclient
-wireshark
-
-# git clones
 metasploit-framework
 
-# application downloads
+# apps
 burp suite
+wireshark
 
 # lists
 seclists - Github
